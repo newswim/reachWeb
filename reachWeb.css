@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.progress-wrapper {
+  z-index: 9999;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  
+}
+
+.workProgress {
+	color: chartreuse;
+	width: 100%;
+	/* font-size: 10vmin;
+	position: absolute;
+	height: 100%;
+	width:100%; */
+}
