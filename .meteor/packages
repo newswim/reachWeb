@@ -9,3 +9,4 @@ autopublish
 insecure
 marcinn:paperjs
 materialize:materialize
+iron:router
