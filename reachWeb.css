@@ -1,23 +1,27 @@
 /* CSS declarations go here */
 
-
+/*
 html,
 body {
 	padding: 0;
 	margin: 0;
 	width: 100%;
 	height: 100%;
-	overflow: hidden;
+	/* overflow: hidden; 
+}
+*/
+
+#particles-js {
+	background: black;
 }
 
 .progress-wrapper {
-  z-index: 9999;
+  /*z-index: 9999; */
   height: 100%;
   width: 100%;
   text-align: center;
   position: absolute;
   top: 0;
-  
 }
 
 .workProgress {
@@ -27,4 +31,19 @@ body {
 	position: absolute;
 	height: 100%;
 	width:100%; */
+	-webkit-font-smoothing: antialiased;
 }
+
+
+.servicesRow {
+	background-image: url('services-bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+}
+
+
+.servicesRow .col {
+	/* min-height: 300px; */
+}
+

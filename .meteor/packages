@@ -10,3 +10,7 @@ insecure
 marcinn:paperjs
 materialize:materialize
 iron:router
+newswim:particles
+coffeescript
+percolate:momentum
+percolate:momentum-iron-router

@@ -7,6 +7,7 @@ blaze-tools@1.0.3
 boilerplate-generator@1.0.3
 callback-hook@1.0.3
 check@1.0.5
+coffeescript@1.0.6
 ddp@1.1.0
 deps@1.0.7
 ejson@1.0.6
@@ -38,8 +39,12 @@ minifiers@1.1.5
 minimongo@1.0.8
 mobile-status-bar@1.0.3
 mongo@1.1.0
+newswim:particles@1.1.0
 observe-sequence@1.0.6
 ordered-dict@1.0.3
+percolate:momentum@0.7.2
+percolate:momentum-iron-router@0.7.0
+percolate:velocityjs@1.1.0
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5
